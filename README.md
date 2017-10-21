@@ -1,9 +1,5 @@
-# Magisk Module Template
+# Twemoji Module for Magisk
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+This module uses Magisk to systemlessly replace Android emojis with Twemoji (Twitter Emoji). Updated for Unicode 10.0.
 
-**Please update `README.md` if you want to submit your module to the online repo!**
-
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+Preview available [here](https://emojipedia.org/twitter/twemoji-2.3/).
