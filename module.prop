@@ -1,6 +1,6 @@
 id=magisk-font-twemoji
 name=Twemoji
-version=v2.3
+version=v2.4
 versionCode=9
 author=Xyllon, lindwurm
 description=Systemlessly replaces emoji font with Twemoji.
